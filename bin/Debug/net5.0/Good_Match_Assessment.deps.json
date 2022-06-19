@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Good_Match_Assessment/1.0.0": {
+        "runtime": {
+          "Good_Match_Assessment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Good_Match_Assessment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

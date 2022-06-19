@@ -1,0 +1,48 @@
+C:\Users\ZzAaB\Documents\random prog files\Good_Match_Assessment\bin\Debug\net5.0\Good_Match_Assessment.exe
+C:\Users\ZzAaB\Documents\random prog files\Good_Match_Assessment\bin\Debug\net5.0\Good_Match_Assessment.deps.json
+C:\Users\ZzAaB\Documents\random prog files\Good_Match_Assessment\bin\Debug\net5.0\Good_Match_Assessment.runtimeconfig.json
+C:\Users\ZzAaB\Documents\random prog files\Good_Match_Assessment\bin\Debug\net5.0\Good_Match_Assessment.runtimeconfig.dev.json
+C:\Users\ZzAaB\Documents\random prog files\Good_Match_Assessment\bin\Debug\net5.0\Good_Match_Assessment.dll
+C:\Users\ZzAaB\Documents\random prog files\Good_Match_Assessment\bin\Debug\net5.0\ref\Good_Match_Assessment.dll
+C:\Users\ZzAaB\Documents\random prog files\Good_Match_Assessment\bin\Debug\net5.0\Good_Match_Assessment.pdb
+C:\Users\ZzAaB\Documents\random prog files\Good_Match_Assessment\obj\Debug\net5.0\Good_Match_Assessment.csproj.AssemblyReference.cache
+C:\Users\ZzAaB\Documents\random prog files\Good_Match_Assessment\obj\Debug\net5.0\Good_Match_Assessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZzAaB\Documents\random prog files\Good_Match_Assessment\obj\Debug\net5.0\Good_Match_Assessment.AssemblyInfoInputs.cache
+C:\Users\ZzAaB\Documents\random prog files\Good_Match_Assessment\obj\Debug\net5.0\Good_Match_Assessment.AssemblyInfo.cs
+C:\Users\ZzAaB\Documents\random prog files\Good_Match_Assessment\obj\Debug\net5.0\Good_Match_Assessment.csproj.CoreCompileInputs.cache
+C:\Users\ZzAaB\Documents\random prog files\Good_Match_Assessment\obj\Debug\net5.0\Good_Match_Assessment.dll
+C:\Users\ZzAaB\Documents\random prog files\Good_Match_Assessment\obj\Debug\net5.0\ref\Good_Match_Assessment.dll
+C:\Users\ZzAaB\Documents\random prog files\Good_Match_Assessment\obj\Debug\net5.0\Good_Match_Assessment.pdb
+C:\Users\ZzAaB\Documents\random prog files\Good_Match_Assessment\obj\Debug\net5.0\Good_Match_Assessment.genruntimeconfig.cache
+C:\Users\Afri Soul\Downloads\Derivco_Technical_Assesment-main\Derivco_Technical_Assesment-main\Good_Match_Assessment\bin\Debug\net5.0\Good_Match_Assessment.exe
+C:\Users\Afri Soul\Downloads\Derivco_Technical_Assesment-main\Derivco_Technical_Assesment-main\Good_Match_Assessment\bin\Debug\net5.0\Good_Match_Assessment.deps.json
+C:\Users\Afri Soul\Downloads\Derivco_Technical_Assesment-main\Derivco_Technical_Assesment-main\Good_Match_Assessment\bin\Debug\net5.0\Good_Match_Assessment.runtimeconfig.json
+C:\Users\Afri Soul\Downloads\Derivco_Technical_Assesment-main\Derivco_Technical_Assesment-main\Good_Match_Assessment\bin\Debug\net5.0\Good_Match_Assessment.runtimeconfig.dev.json
+C:\Users\Afri Soul\Downloads\Derivco_Technical_Assesment-main\Derivco_Technical_Assesment-main\Good_Match_Assessment\bin\Debug\net5.0\Good_Match_Assessment.dll
+C:\Users\Afri Soul\Downloads\Derivco_Technical_Assesment-main\Derivco_Technical_Assesment-main\Good_Match_Assessment\bin\Debug\net5.0\ref\Good_Match_Assessment.dll
+C:\Users\Afri Soul\Downloads\Derivco_Technical_Assesment-main\Derivco_Technical_Assesment-main\Good_Match_Assessment\bin\Debug\net5.0\Good_Match_Assessment.pdb
+C:\Users\Afri Soul\Downloads\Derivco_Technical_Assesment-main\Derivco_Technical_Assesment-main\Good_Match_Assessment\obj\Debug\net5.0\Good_Match_Assessment.csprojAssemblyReference.cache
+C:\Users\Afri Soul\Downloads\Derivco_Technical_Assesment-main\Derivco_Technical_Assesment-main\Good_Match_Assessment\obj\Debug\net5.0\Good_Match_Assessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afri Soul\Downloads\Derivco_Technical_Assesment-main\Derivco_Technical_Assesment-main\Good_Match_Assessment\obj\Debug\net5.0\Good_Match_Assessment.AssemblyInfoInputs.cache
+C:\Users\Afri Soul\Downloads\Derivco_Technical_Assesment-main\Derivco_Technical_Assesment-main\Good_Match_Assessment\obj\Debug\net5.0\Good_Match_Assessment.AssemblyInfo.cs
+C:\Users\Afri Soul\Downloads\Derivco_Technical_Assesment-main\Derivco_Technical_Assesment-main\Good_Match_Assessment\obj\Debug\net5.0\Good_Match_Assessment.csproj.CoreCompileInputs.cache
+C:\Users\Afri Soul\Downloads\Derivco_Technical_Assesment-main\Derivco_Technical_Assesment-main\Good_Match_Assessment\obj\Debug\net5.0\Good_Match_Assessment.dll
+C:\Users\Afri Soul\Downloads\Derivco_Technical_Assesment-main\Derivco_Technical_Assesment-main\Good_Match_Assessment\obj\Debug\net5.0\ref\Good_Match_Assessment.dll
+C:\Users\Afri Soul\Downloads\Derivco_Technical_Assesment-main\Derivco_Technical_Assesment-main\Good_Match_Assessment\obj\Debug\net5.0\Good_Match_Assessment.pdb
+C:\Users\Afri Soul\Downloads\Derivco_Technical_Assesment-main\Derivco_Technical_Assesment-main\Good_Match_Assessment\obj\Debug\net5.0\Good_Match_Assessment.genruntimeconfig.cache
+C:\Users\Afri Soul\Downloads\Derivco_Graduate_Technical_Assesment\Good_Match\bin\Debug\net5.0\Good_Match_Assessment.exe
+C:\Users\Afri Soul\Downloads\Derivco_Graduate_Technical_Assesment\Good_Match\bin\Debug\net5.0\Good_Match_Assessment.deps.json
+C:\Users\Afri Soul\Downloads\Derivco_Graduate_Technical_Assesment\Good_Match\bin\Debug\net5.0\Good_Match_Assessment.runtimeconfig.json
+C:\Users\Afri Soul\Downloads\Derivco_Graduate_Technical_Assesment\Good_Match\bin\Debug\net5.0\Good_Match_Assessment.runtimeconfig.dev.json
+C:\Users\Afri Soul\Downloads\Derivco_Graduate_Technical_Assesment\Good_Match\bin\Debug\net5.0\Good_Match_Assessment.dll
+C:\Users\Afri Soul\Downloads\Derivco_Graduate_Technical_Assesment\Good_Match\bin\Debug\net5.0\ref\Good_Match_Assessment.dll
+C:\Users\Afri Soul\Downloads\Derivco_Graduate_Technical_Assesment\Good_Match\bin\Debug\net5.0\Good_Match_Assessment.pdb
+C:\Users\Afri Soul\Downloads\Derivco_Graduate_Technical_Assesment\Good_Match\obj\Debug\net5.0\Good_Match_Assessment.csprojAssemblyReference.cache
+C:\Users\Afri Soul\Downloads\Derivco_Graduate_Technical_Assesment\Good_Match\obj\Debug\net5.0\Good_Match_Assessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afri Soul\Downloads\Derivco_Graduate_Technical_Assesment\Good_Match\obj\Debug\net5.0\Good_Match_Assessment.AssemblyInfoInputs.cache
+C:\Users\Afri Soul\Downloads\Derivco_Graduate_Technical_Assesment\Good_Match\obj\Debug\net5.0\Good_Match_Assessment.AssemblyInfo.cs
+C:\Users\Afri Soul\Downloads\Derivco_Graduate_Technical_Assesment\Good_Match\obj\Debug\net5.0\Good_Match_Assessment.csproj.CoreCompileInputs.cache
+C:\Users\Afri Soul\Downloads\Derivco_Graduate_Technical_Assesment\Good_Match\obj\Debug\net5.0\Good_Match_Assessment.dll
+C:\Users\Afri Soul\Downloads\Derivco_Graduate_Technical_Assesment\Good_Match\obj\Debug\net5.0\ref\Good_Match_Assessment.dll
+C:\Users\Afri Soul\Downloads\Derivco_Graduate_Technical_Assesment\Good_Match\obj\Debug\net5.0\Good_Match_Assessment.pdb
+C:\Users\Afri Soul\Downloads\Derivco_Graduate_Technical_Assesment\Good_Match\obj\Debug\net5.0\Good_Match_Assessment.genruntimeconfig.cache
